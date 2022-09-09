@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import {Box} from '@mui/material';
 
+import HeroBanner from '../components/HeroBanner';
+import Exercises from '../components/Exercises';
+import SearchExercises from '../components/SearchExcercises';
+
 
 const Home= () =>{
     return(
